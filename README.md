@@ -1,4 +1,3 @@
-shareabouts-website
-===================
+This repo is a promo website for Shareabouts, the open source collaborative mapping tool from OpenPlans. 
 
-Promo website for Shareabouts, open source mapping tool
+See the site at shareabouts.org and check out the demo at demo.shareabouts.org.
