@@ -1,29 +1,16 @@
 ---
 title: Shareabouts
+layout: default
 ---
 
 Shareabouts
 ==========
 
-Shareabouts is 
+Shareabouts is a mapping app for crowd sourced public input. 
 
-Shareabouts has some awesome features:
+Shareabouts has a simple, fun interface that makes it easy to add your voice to the map: suggest a location, add a comment, support other suggestions and share locations with your friends and neighbors. Shareabouts gets out of the way, letting you focus on getting points on the map.
 
-+ this
-+ and this
-+ and don't forget this!
+Explore a demo at [demo.shareabouts.org](http://demo.shareabouts.org).
 
-Example of Shareabouts sites
--------
-
-How can I get my own Shareabouts site?
-========
-
-
-Get involved in creating Shareabouts!
-=========
-
-
-Roadmap
-------
+Shareabouts is a project from [OpenPlans](http://openplans.org/ "OpenPlans").
 
