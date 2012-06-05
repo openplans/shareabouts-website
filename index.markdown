@@ -64,6 +64,6 @@ Because it's open source, the process of creating Shareabouts is wide open to yo
 
 About OpenPlans
 ----------------
-OpenPlans provides product support, training, and custom development for our civic engagment and participatory planning tools. Find our more about our work at [openplans.org](http://openplans.org/civicworks).
+OpenPlans provides product support, training, and custom development for civic engagement and participatory planning tools. Find our more about our work at [openplans.org](http://openplans.org/civicworks).
 
 
