@@ -14,6 +14,8 @@ For project managers, Shareabouts is flexible and powerful, making it easy to cu
 
 Explore a demo at [demo.shareabouts.org](http://demo.shareabouts.org).
 
+![Shareabouts client interface](https://img.skitch.com/20120810-8yrguqd5wad499aujbcbuij8wd.png "Shareabouts")
+
 What is Shareabouts for?
 -----------------
 
