@@ -8,11 +8,9 @@ Shareabouts
 
 Shareabouts is a mapping tool to gather crowd sourced public input. Use it to collect suggested locations and comments, in a social, engaging process. 
 
-For users, Shareabouts has a simple, fun interface that makes it easy to add your voice to the map: suggest a location, add a comment, support other suggestions and share locations with your friends and neighbors. 
+For users, Shareabouts has a simple interface that makes it easy to add your voice to the map: suggest a location, add a comment, support other suggestions and share locations with your friends and neighbors. 
 
 For project managers, Shareabouts is flexible and powerful, making it easy to customize for many different uses. Shareabouts gets out of the way, letting you focus on getting points on the map.
-
-Explore a demo at [demo.shareabouts.org](http://demo.shareabouts.org).
 
 ![Shareabouts client interface](https://img.skitch.com/20120810-8yrguqd5wad499aujbcbuij8wd.png "Shareabouts")
 
@@ -27,6 +25,13 @@ Some ways you can use Shareabouts:
 * show infrastructure options and get public comment on each one
 * collect support for possible park locations
 * crowdsource issue reporting after a storm
+
+Check out some demos:
+* [Mapping ATM surcharges](http://nosur-civicworks.dotcloud.com/).
+* [Gathering usage data for a city park](http://sistercities-civicworks.dotcloud.com/).
+* [Surveying bike commuters about parking at stations](http://bikeparking-civicworks.dotcloud.com/).
+* [Tracking and describing community assets](http://communitymap-civicworks.dotcloud.com/).
+
 
 Features
 ----------------
