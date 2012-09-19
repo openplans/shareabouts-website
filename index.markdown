@@ -29,6 +29,9 @@ For users, Shareabouts has a simple interface that makes it easy to add your voi
 
 For project managers, Shareabouts is flexible and powerful, making it easy to customize for many different uses. Shareabouts gets out of the way, letting you focus on getting points on the map.
 
+![Shareabouts for data collection](https://img.skitch.com/20120919-8cti1gnuupj7ggh52u3y61n1ei.png "Using Shareabouts to gather data about a public park")
+_Shareabouts as a monitoring tool for public space management_. 
+
 Features
 ----------------
 
@@ -48,9 +51,6 @@ For project managers during a project,
 
 ![Shareabouts for bike parking](https://img.skitch.com/20120919-f5257949m9yd9scfy5tu7tqpa1.png "Using Shareabouts to map bike parking")
 _Understanding needs for bike parking and existing parking facilities with Shareabouts_. 
-
-![Shareabouts for data collection](https://img.skitch.com/20120919-8cti1gnuupj7ggh52u3y61n1ei.png "Using Shareabouts to gather data about a public park")
-_Shareabouts as a monitoring tool for public space management_. 
 
 
 How to get Shareabouts
