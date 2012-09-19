@@ -12,10 +12,10 @@ Shareabouts is a mapping tool to gather crowd sourced public input. Use it to co
 _Using Shareabouts to crowdsource info on ATM surcharges_. 
 
 Check out some demos:
-* [Gathering usage data for a city park](http://sistercities-civicworks.dotcloud.com/).
-* [Mapping ATM surcharges](http://nosur-civicworks.dotcloud.com/).
-* [Surveying bike commuters about parking at stations](http://bikeparking-civicworks.dotcloud.com/).
-* [Tracking and describing community assets](http://communitymap-civicworks.dotcloud.com/).
+* [Gathering usage data for a city park](http://sistercities.shareabouts.org/).
+* [Mapping ATM surcharges](http://nosur.shareabouts.org/).
+* [Surveying bike commuters about parking at stations](http://bikeparking.shareabouts.org/).
+* [Tracking and describing community assets](http://communitymap.shareabouts.org/).
 
 Some ways you can use Shareabouts: 
 * gather suggestions for possible locations for bike share stations
