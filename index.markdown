@@ -9,6 +9,7 @@ Shareabouts
 Shareabouts is a mapping tool to gather crowd sourced public input. Use it to collect suggested locations and comments, in a social, engaging process. 
 
 ![Shareabouts client interface](https://img.skitch.com/20120919-exxdf3yi93xng6ykxu3t75id7n.png "Shareabouts")
+_Using Shareabouts to crowdsource info on ATM surcharges_. 
 
 Check out some demos:
 * [Gathering usage data for a city park](http://sistercities-civicworks.dotcloud.com/).
@@ -46,6 +47,11 @@ For project managers during a project,
 * export to GIS 
 
 ![Shareabouts for bike parking](https://img.skitch.com/20120919-f5257949m9yd9scfy5tu7tqpa1.png "Using Shareabouts to map bike parking")
+_Understanding needs for bike parking and existing parking facilities with Shareabouts_. 
+
+![Shareabouts for data collection](https://img.skitch.com/20120919-8cti1gnuupj7ggh52u3y61n1ei.png "Using Shareabouts to gather data about a public park")
+_Shareabouts as a monitoring tool for public space management_. 
+
 
 How to get Shareabouts
 =================
