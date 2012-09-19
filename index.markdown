@@ -8,7 +8,7 @@ Shareabouts
 
 Shareabouts is a mapping tool to gather crowd sourced public input. Use it to collect suggested locations and comments, in a social, engaging process. 
 
-![Shareabouts client interface](https://img.skitch.com/20120919-exxdf3yi93xng6ykxu3t75id7n.png "Shareabouts")
+![Shareabouts client interface](https://img.skitch.com/20120919-j6mrwapanj32mh9i5hw9g3h6sx.png "Shareabouts")
 _Using Shareabouts to crowdsource info on ATM surcharges_. 
 
 Check out some demos:
