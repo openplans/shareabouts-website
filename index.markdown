@@ -8,17 +8,15 @@ Shareabouts
 
 Shareabouts is a mapping tool to gather crowd sourced public input. Use it to collect suggested locations and comments, in a social, engaging process. 
 
-For users, Shareabouts has a simple interface that makes it easy to add your voice to the map: suggest a location, add a comment, support other suggestions and share locations with your friends and neighbors. 
+![Shareabouts client interface](https://img.skitch.com/20120919-exxdf3yi93xng6ykxu3t75id7n.png "Shareabouts")
 
-For project managers, Shareabouts is flexible and powerful, making it easy to customize for many different uses. Shareabouts gets out of the way, letting you focus on getting points on the map.
-
-![Shareabouts client interface](https://img.skitch.com/20120810-8yrguqd5wad499aujbcbuij8wd.png "Shareabouts")
-
-What is Shareabouts for?
------------------
+Check out some demos:
+* [Gathering usage data for a city park](http://sistercities-civicworks.dotcloud.com/).
+* [Mapping ATM surcharges](http://nosur-civicworks.dotcloud.com/).
+* [Surveying bike commuters about parking at stations](http://bikeparking-civicworks.dotcloud.com/).
+* [Tracking and describing community assets](http://communitymap-civicworks.dotcloud.com/).
 
 Some ways you can use Shareabouts: 
-
 * gather suggestions for possible locations for bike share stations
 * get comments and votes on proposed locations for food carts
 * collect data on vacant lots that could be urban farms
@@ -26,12 +24,9 @@ Some ways you can use Shareabouts:
 * collect support for possible park locations
 * crowdsource issue reporting after a storm
 
-Check out some demos:
-* [Mapping ATM surcharges](http://nosur-civicworks.dotcloud.com/).
-* [Gathering usage data for a city park](http://sistercities-civicworks.dotcloud.com/).
-* [Surveying bike commuters about parking at stations](http://bikeparking-civicworks.dotcloud.com/).
-* [Tracking and describing community assets](http://communitymap-civicworks.dotcloud.com/).
+For users, Shareabouts has a simple interface that makes it easy to add your voice to the map: suggest a location, add a comment, support other suggestions and share locations with your friends and neighbors. 
 
+For project managers, Shareabouts is flexible and powerful, making it easy to customize for many different uses. Shareabouts gets out of the way, letting you focus on getting points on the map.
 
 Features
 ----------------
@@ -49,8 +44,8 @@ For project managers during a project,
 * blogging tools to create pages or blog posts
 * map and location configuration 
 * export to GIS 
-* simple status dashboard
 
+![Shareabouts for bike parking](https://img.skitch.com/20120919-f5257949m9yd9scfy5tu7tqpa1.png "Using Shareabouts to map bike parking")
 
 How to get Shareabouts
 =================
