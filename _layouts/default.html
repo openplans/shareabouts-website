@@ -36,5 +36,20 @@
 <div id="page">
 {{ content }}
 </div>
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.5/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20099196",
+      url:         "https://openplans.zendesk.com",
+      tabID:       "Contact us",
+      tabColor:    "black",
+      tabPosition: "Left"
+    });
+  }
+</script>
 </body>
 </html>
