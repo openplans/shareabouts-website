@@ -13,6 +13,11 @@ Shareabouts is ideal for crowdsourcing bikeshare stations and gathering input on
 ![Shareabouts client interface](https://img.skitch.com/20120919-j6mrwapanj32mh9i5hw9g3h6sx.png "Shareabouts")
 _Using Shareabouts to crowdsource info on ATM surcharges_. 
 
+Examples of Shareabouts in use:
+* [Mapping dangerous intersections](http://makebrooklynsafer.shareabouts.org), by Make Brooklyn Safer.
+* [Sharing memories about historic Louisville ](http://historiclouisville.shareabouts.org/), by The University of Louisville's Urban Design Studio and the non-profit City Collaborative.
+* [Crowdsourcing prospective bike share locations](http://portlandbikesharestationmap.com), by the City of Portland.
+
 Check out some demos:
 * [Gathering usage data for a city park](http://sistercities.shareabouts.org/).
 * [Mapping ATM surcharges](http://nosur.shareabouts.org/).
