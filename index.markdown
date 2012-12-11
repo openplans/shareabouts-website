@@ -48,7 +48,7 @@ For users,
 
 For designers and developers,
 * flexible text and layout, making it easy to translate the user interface text or customize the sentences used 
-* geospatial database, so you can limit contributions to within boundaries, or asiggn neighborhood names
+* geospatial database, so you can limit contributions to within boundaries, or assign neighborhood names
 
 For project managers during a project,
 * simple admin interface
